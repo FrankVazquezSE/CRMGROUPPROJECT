@@ -1,0 +1,86 @@
+body{
+    background-color: white;
+    border-color:black
+}
+
+p1{
+    color:white;
+}
+
+#leftpart{
+    background-color: #0021F4;
+    border-radius: 50px 50% 50cm 10em;
+    width: 60%;
+    height: 100%;
+    
+}
+
+.p1{
+    color: white;
+}
+#button1{
+    background-color: #0021F4;
+    border-width:3px;
+
+}
+
+#rightpart{
+    max-width: 40%;
+    display:flex;
+    position: righ;
+}
+
+
+ul.social {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+  }
+  
+  ul.social > li {
+    display: inline-block;
+  }
+  
+  ul.social > li > a {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 30px;
+    width: 30px;
+    height: 30px;
+    border-radius: 36px;
+    border-color:black;
+    background-color: black;
+    color: white;
+    margin: 0 18px 18px 0;
+  }
+  
+  ul.social > li > a:hover {
+    text-decoration: none;
+    background-color: #0021F4;
+  }
+
+.fa-twitter{
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left:5px;
+}
+
+.fa-facebook{
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left:5px;
+}
+
+.fa-google{
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left:5px;
+}
+
+.fa-linkedin-in{
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-left:5px;
+}
+
