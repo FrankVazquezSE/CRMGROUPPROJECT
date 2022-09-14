@@ -1,0 +1,90 @@
+.navbar-nav {
+   margin-left: 500px;
+   padding-bottom:px
+}
+
+.logintryfreecont{
+    margin-left: 500px;
+}
+
+.focuscont {
+    padding-left: 500px;
+    margin-bottom: 10px;
+}
+
+#textspacing{
+    margin-top: 5px;
+    line-height: 150px;
+}
+
+ #headerimg {
+    height: 450px;
+    
+ }
+
+#screenline{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.explorecont {
+    padding-left: 400px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    line-height: 150px;
+}
+
+
+
+.creditmancont{
+    padding-left: 300px;
+    margin-right: 200px;
+}
+
+#solutions{
+    padding-top: 100px;
+    margin-left: 750px;
+    padding bottom: 100px;
+}
+
+.fitbusinesscont{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+
+#footer {
+    color: white;
+    margin-top: 50px;
+}
+.card-body {
+    background-color: #0d6efd;
+}
+
+.itemcard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.columni {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+
+#emaildash {
+    margin-right: 150px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+#taskmanager {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+
+#analytic {
+    margin-right: 150px;
+}
